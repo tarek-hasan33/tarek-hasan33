@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Tarek Hasan</h1>
-<h3 align="center">A CS Student, studying at United International University.</h3>
+
+<h2 align="center">Hi, I'm Tarek Hasan</h2>
+<h3 align="center">A CS student, studying at United International University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarek-hasan33&label=Profile%20views&color=0e75b6&style=flat" alt="tarek-hasan33" /> </p>
 
