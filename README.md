@@ -24,8 +24,8 @@
 <a href="https://linkedin.com/in/tarek-hasan33" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tarek-hasan33" height="30" width="120" /></a>
 <a href="https://www.codechef.com/users/liddleheart" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="liddleheart" height="30" width="120" /></a>
 <a href="https://www.hackerrank.com/liddleheart" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="liddleheart" height="30" width="120" /></a>
+
 <a href="https://codeforces.com/profile/liddleheart" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="liddleheart" height="30" width="120" /></a>
-  
 <a href="https://www.leetcode.com/liddleheart" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="liddleheart" height="30" width="120" /></a>
 <a href="https://stackoverflow.com/users/21931624" target="blank"><img align="center" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="21931624" height="30" width="120" /></a>
 </p>
