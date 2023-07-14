@@ -39,3 +39,6 @@
 
 ## 💡Miscellaneous:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5uvpe85ct1v93mxlzd7gc5411&count=3)
+
+## Contributions
+![snake gif](https://github.com/tarek-hasan33/tarek-hasan33/blob/output/github-contribution-grid-snake.gif)
