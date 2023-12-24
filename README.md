@@ -34,6 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=tarek-hasan33&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ## 💡Miscellaneous:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5uvpe85ct1v93mxlzd7gc5411&count=3)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5uvpe85ct1v93mxlzd7gc5411&count=3)d
 
 
