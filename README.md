@@ -19,10 +19,7 @@
 <p align="left">
 <a href="https://fb.com/liddleheart" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="liddleheart" height="30" width="120" /></a>
 <a href="https://instagram.com/_tarekhasan_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_tarekhasan_" height="30" width="120" /></a>
-<a href="https://twitter.com/_tarekhasan_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="_tarekhasan_" height="30" width="120" /></a>
 <a href="https://linkedin.com/in/tarek-hasan33" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tarek-hasan33" height="30" width="120" /></a>
-<a href="https://www.codechef.com/users/liddleheart" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="liddleheart" height="30" width="120" /></a>
-<a href="https://www.hackerrank.com/liddleheart" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="liddleheart" height="30" width="120" /></a>
 
 <a href="https://codeforces.com/profile/liddleheart" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="liddleheart" height="30" width="120" /></a>
 <a href="https://www.leetcode.com/liddleheart" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="liddleheart" height="30" width="120" /></a>
