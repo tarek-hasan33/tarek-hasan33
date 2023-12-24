@@ -35,6 +35,6 @@
 
 
 ## 💡Miscellaneous:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5uvpe85ct1v93mxlzd7gc5411&count=3)d
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5uvpe85ct1v93mxlzd7gc5411&count=3)
 
 
