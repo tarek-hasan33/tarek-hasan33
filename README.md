@@ -1,1 +1,1 @@
-# <img src="https://ibb.co/KWKMcQ3" height="32"> Tarek Hasan
+# <img src="src/media/pngs/daredevil.png" height="32"> Tarek Hasan
