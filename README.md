@@ -9,4 +9,4 @@ Hello! My name's Tarek Hasan, and I'm a 21 year old udergrad student and wannabe
 - Currently learning web dev to build my own portfolio hehe
 - Have a huge interest in Cyber Security
 - A continues learner
-- I like to play football and [chess(I'm awful btw)](https://www.chess.com/member/liddleheart)
+- I like to play football and [chess](https://www.chess.com/member/liddleheart) (I'm awful btw)
