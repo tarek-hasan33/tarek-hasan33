@@ -1,4 +1,4 @@
-# <img src="src/media/pngs/daredevil.png" height="32"> Tarek Hasan
+# <img src="src/media/pngs/daredevil.png" height="25"> Tarek Hasan
 
 Hello! My name's Tarek Hasan, and I'm a 21 year old udergrad student and wannabe tech guy from Bangladesh!
 <br><br>
