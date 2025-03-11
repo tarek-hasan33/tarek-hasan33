@@ -1,4 +1,4 @@
-# <img src="src/media/pngs/daredevil.png" height="25"> Tarek Hasan
+### Hey there!!! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 Hello! My name's Tarek Hasan, and I'm a 21 year old udergrad student and a wannabe tech guy from Bangladesh!
 <br><br>
